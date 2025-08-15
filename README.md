@@ -1,3 +1,3 @@
-# Diode circuit solver
+# Electronics circuits
 
-A brief code to compare the solution of a simple diode-resistor series circuit considering both the simplified and the real diode model.
+A repository with codes, schematic diagrams and simulations for electronic circuits. Each project has its own folder.
