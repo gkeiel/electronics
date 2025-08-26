@@ -1,15 +1,13 @@
-# Voltage signal conditioner
+# Voltage difference detector
 
-A simple yet functional printed circuit board (PCB) design for a voltage sensor and signal conditioner, primarily developed for voltage source inverter (VSI) applications. Both the schematic design (.sch) and board layout (.brd) were developed in EAGLE software.
+A printed circuit board (PCB) design for a voltage difference detector between two input voltages, originally developed for voltage source inverter (VSI) parallelism eapplications. Both the schematic design (.sch) and board layout (.brd) were developed in EAGLE software.
+
+Being specified for two 127 V sinusoidal inputs, it contains a circuit with a differential amplifier and a comparator. It calculates the instantaneous voltage difference, which is proportional to both phase shift and amplitude of the signals, and compares it with an adjustable threshold. If the threshold is exceeded, the comparator activates a relay and a transistor that retains its current state until a reset button is pressed.
 
 <div align="center">
-<img width="655" height="312" alt="voltage_conditioner_brd" src="https://github.com/user-attachments/assets/34828eff-da1f-4d24-9cbe-0c0e918cc478" />
+<img width="413" height="514" alt="voltage_difference_detector" src="https://github.com/user-attachments/assets/6f65d31b-9646-4952-a55d-a5cdb4b28b5c" />
 </div>
 
 ##
 
 The figures presented in the sequence show stages involved in manufacturing the PCB and its final destination on a panel for VSI control purposes.
-
-<div align="center">
-<img width="655" height="420" alt="voltage_conditioner" src="https://github.com/user-attachments/assets/8e567b95-009f-46de-9b9c-5109cd70feee" />
-</div>
