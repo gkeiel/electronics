@@ -10,8 +10,19 @@ Being specified for an 127 V RMS voltage, it accepts a maximum amplitude of 200 
 
 ##
 
-The figures presented in the sequence show stages involved in manufacturing the PCB and its final destination on a panel for VSI control purposes.
+The figures presented in the sequence show stages involved in manufacturing the PCB and its final destination on an electirc panel used for control purposes.
+
+<div align="center">
+<img width="655" height="420" alt="voltage_conditioner_1" src="https://github.com/user-attachments/assets/85f90b33-ab7d-4e85-8b47-5e38b8842c2b" />
+</div>
 
 <div align="center">
 <img width="655" height="420" alt="voltage_conditioner" src="https://github.com/user-attachments/assets/8e567b95-009f-46de-9b9c-5109cd70feee" />
 </div>
+
+<div align="center">
+<img width="655" height="420" alt="voltage_conditioner_2" src="https://github.com/user-attachments/assets/59769514-4d23-4506-a8a9-4a188e6d385d" />
+</div>
+
+
+
