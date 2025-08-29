@@ -17,12 +17,9 @@ The figures presented in the sequence show stages involved in manufacturing the 
 </div>
 
 <div align="center">
-<img width="655" height="420" alt="voltage_conditioner" src="https://github.com/user-attachments/assets/8e567b95-009f-46de-9b9c-5109cd70feee" />
+<img width="655" height="420" alt="voltage_conditioner" src="https://github.com/user-attachments/assets/0eb734f6-c275-4cba-9873-7a66466b58cc" />
 </div>
 
 <div align="center">
 <img width="655" height="420" alt="voltage_conditioner_2" src="https://github.com/user-attachments/assets/59769514-4d23-4506-a8a9-4a188e6d385d" />
 </div>
-
-
-
